@@ -13,5 +13,3 @@
 > > **password**: test123
 
 ### **_Clock 25_**
-
-https://res.cloudinary.com/doxyiccev/video/upload/v1624227149/davitDidbaridze_ln0llm.mp4
