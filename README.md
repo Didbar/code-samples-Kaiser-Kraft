@@ -16,4 +16,4 @@ First of all I will provide two users, one for _Simple User_ and another for _Ad
 >
 > - password: `test123`
 
-Here is the video of the Product Presentation.
+#### **[Here is the video](https://res.cloudinary.com/doxyiccev/video/upload/v1624227149/davitDidbaridze_ln0llm.mp4) of the Product Presentation**
