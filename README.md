@@ -1,15 +1,19 @@
 # **Code Samples For Kaiser Kraft**
 
-### **_E-commerce sample with React and Redux_**
+## **_[E-commerce](http://shopitsco-eu.herokuapp.com/) sample with React and Redux_**
 
-> #### Simple user:
+First of all I will provide two users, one for _Simple User_ and another for _Admin User_.
+
+> ### Simple user
 >
-> > **username**: kaiser-kraft@email.com
-> > **password**: test123
-
-> #### Admin user:
+> - username: `kaiser-kraft@email.com`
 >
-> > **username**: kaiser-kraft-admin@email.com
-> > **password**: test123
+> - password: `test123`
+>
+> ### Admin user
+>
+> - username: `kaiser-kraft-admin@email.com`
+>
+> - password: `test123`
 
-### **_Clock 25_**
+Here is the video of the Product Presentation.
